@@ -1,0 +1,92 @@
+{
+  "diabete": {
+    "display_name": "Diabete",
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "created_at": "2025-04-29T19:30:27.846129",
+    "documents": [
+      {
+        "name": "what-is-diabetes-and-how-can-i-manage-it.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\what-is-diabetes-and-how-can-i-manage-it.pdf",
+        "size": 322486,
+        "uploaded_at": "2025-04-29T19:30:53.810742",
+        "chroma_id": "diabete_what-is-diabetes-and-how-can-i-manage-it.pdf_1745951453.068996"
+      },
+      {
+        "name": "Eating_Diabetes_508.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\Eating_Diabetes_508.pdf",
+        "size": 987110,
+        "uploaded_at": "2025-04-29T19:32:17.250214",
+        "chroma_id": "diabete_Eating_Diabetes_508.pdf_1745951536.151982"
+      },
+      {
+        "name": "On-your-way-to-preventing-type-2-diabetes.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\On-your-way-to-preventing-type-2-diabetes.pdf",
+        "size": 886531,
+        "uploaded_at": "2025-04-29T19:32:18.586829",
+        "chroma_id": "diabete_On-your-way-to-preventing-type-2-diabetes.pdf_1745951537.277742"
+      },
+      {
+        "name": "your_diabetescareandmanagementplan_final_3_29_22.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\your_diabetescareandmanagementplan_final_3_29_22.pdf",
+        "size": 5285025,
+        "uploaded_at": "2025-04-29T19:32:23.385756",
+        "chroma_id": "diabete_your_diabetescareandmanagementplan_final_3_29_22.pdf_1745951538.697441"
+      },
+      {
+        "name": "Diabetes Fact Sheet_0.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\Diabetes Fact Sheet_0.pdf",
+        "size": 91575,
+        "uploaded_at": "2025-04-29T19:32:23.861829",
+        "chroma_id": "diabete_Diabetes Fact Sheet_0.pdf_1745951543.393756"
+      },
+      {
+        "name": "how_to_use_the_type_2_diabetes_treatment_algorithm_1.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\how_to_use_the_type_2_diabetes_treatment_algorithm_1.pdf",
+        "size": 2819982,
+        "uploaded_at": "2025-04-29T19:32:26.468436",
+        "chroma_id": "diabete_how_to_use_the_type_2_diabetes_treatment_algorithm_1.pdf_1745951543.935961"
+      },
+      {
+        "name": "what-is-diabetes-and-how-can-i-manage-it.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\what-is-diabetes-and-how-can-i-manage-it.pdf",
+        "size": 322486,
+        "uploaded_at": "2025-04-29T19:32:27.114039",
+        "chroma_id": "diabete_what-is-diabetes-and-how-can-i-manage-it.pdf_1745951546.478594"
+      },
+      {
+        "name": "Eating_Diabetes_508.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\Eating_Diabetes_508.pdf",
+        "size": 987110,
+        "uploaded_at": "2025-04-29T22:29:48.864140",
+        "chroma_id": "diabete_Eating_Diabetes_508.pdf_1745962186.73666"
+      },
+      {
+        "name": "Diabetes Fact Sheet_0.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\Diabetes Fact Sheet_0.pdf",
+        "size": 91575,
+        "uploaded_at": "2025-04-30T00:38:43.894177",
+        "chroma_id": "diabete_Diabetes Fact Sheet_0.pdf_1745969923.035794"
+      },
+      {
+        "name": "how_to_use_the_type_2_diabetes_treatment_algorithm_1.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\how_to_use_the_type_2_diabetes_treatment_algorithm_1.pdf",
+        "size": 2819982,
+        "uploaded_at": "2025-04-30T00:38:47.232266",
+        "chroma_id": "diabete_how_to_use_the_type_2_diabetes_treatment_algorithm_1.pdf_1745969923.95349"
+      },
+      {
+        "name": "what-is-diabetes-and-how-can-i-manage-it.pdf",
+        "path": "C:\\Users\\mchab\\OneDrive\\Bureau\\rag-multi-theme\\backend\\storage\\data\\diabete\\what-is-diabetes-and-how-can-i-manage-it.pdf",
+        "size": 322486,
+        "uploaded_at": "2025-04-30T00:38:47.967118",
+        "chroma_id": "diabete_what-is-diabetes-and-how-can-i-manage-it.pdf_1745969927.246435"
+      }
+    ]
+  },
+  "diabete_maladie": {
+    "display_name": "diabete maladie",
+    "embedding_model": "BAAI/bge-base-en-v1.5",
+    "created_at": "2025-04-30T00:38:06.602292",
+    "documents": []
+  }
+}
